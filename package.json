@@ -7,5 +7,12 @@
   },
   "author": "ShalomVider",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
 }
